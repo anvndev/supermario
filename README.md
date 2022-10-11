@@ -34,5 +34,5 @@ var Matter = Base.extend({
 	},
 });
 
-* ------------
-Thank you: Rappl
+-----------
+# Thank you: Rappl

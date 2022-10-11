@@ -1,10 +1,10 @@
 # supermario
 Reference data
-/*
  * -------------------------------------------
  * MATTER CLASS
  * -------------------------------------------
- */
+ * Academic support, not-for-profit
+ * -------------------
  ```````````````````````
 var Matter = Base.extend({
 	init: function(x, y, blocking, level) {

@@ -5,6 +5,7 @@ Reference data
  * MATTER CLASS
  * -------------------------------------------
  */
+ ```````````````````````
 var Matter = Base.extend({
 	init: function(x, y, blocking, level) {
 		this.blocking = blocking;
@@ -32,6 +33,6 @@ var Matter = Base.extend({
 		this._super(x, y);
 	},
 });
-
+`````````````````````
 ``````
 Thank you: Rappl

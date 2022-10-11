@@ -33,6 +33,5 @@ var Matter = Base.extend({
 		this._super(x, y);
 	},
 });
-`````````````````````
-``````
+
 Thank you: Rappl
